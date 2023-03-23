@@ -3,8 +3,6 @@
 This is a simple API written in Golang that accepts a POST request and sends an email with the contents of the fields.
 I'm planning to use it @ my website for a simple contact form.
 
-In the future I'm probably going to add a dockerfile to deploy it as a microservice.
-
 ## Usage
 
 To use the API, you'll need to start the server by running the following command in the project directory:
