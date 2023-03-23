@@ -11,6 +11,8 @@ To use the API, you'll need to start the server by running the following command
 go run main.go
 ```
 
+There's a dockerfile too, run it as needed, it's just an example.
+
 POST request body
 
 - `from`: The email address of the sender
